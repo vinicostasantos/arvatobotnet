@@ -1,0 +1,28 @@
+{
+  "name": "arvatobotnet",
+  "version": "1.0.0",
+  "description": " \"Projeto Arvato BOT\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinicostasantos/arvatobotnet.git"
+  },
+  "keywords": [
+    "bot",
+    "skype",
+    "slack"
+  ],
+  "author": "Vinicius Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinicostasantos/arvatobotnet/issues"
+  },
+  "homepage": "https://github.com/vinicostasantos/arvatobotnet#readme",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.0.1"
+  }
+}
